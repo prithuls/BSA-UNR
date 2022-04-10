@@ -21,5 +21,4 @@ design:
 
 Welcome to the Bangladeshi Student Association (BSA) at [University of Nevada, Reno](http://unr.edu/).
 
-You can also ask any of your concern via our contact us page.
-We really appreciate your visit and feedback.
+You can also ask any of your concern via our contact us page. We really appreciate your visit and feedback.

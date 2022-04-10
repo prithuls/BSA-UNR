@@ -2,6 +2,9 @@
 # Display name
 title: Monikrishna Roy
 
+authors:
+  - Moni
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -66,6 +69,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Committee
+  - Current Students
+  - Administration
 ---
 
 I am working as a Graduate Research Assistant of CSE dept at UNR. Prior that I was as a Software Engineer at Samsung R&D Bangladesh Institute (SRBD). I completed my MS & BS degree from the Department of CSE, Jahangirnagar University which is the only fully residential university and the most beautiful campus in our country.

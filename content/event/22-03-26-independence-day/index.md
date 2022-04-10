@@ -2,13 +2,13 @@
 title: Independence Day of Bangladesh and Bengali New Year Celebration
 
 event: Festivals
-event_url: 
+event_url:
 location: DMSC 110
 address:
   street: University of Nevada
   city: Reno
   region: NV
-  postcode: '89557'
+  postcode: "89557"
   country: United States
 
 summary: Celebration our country's (Bangladesh) independence day
@@ -16,27 +16,27 @@ abstract: "We are planning to celebrate our country's (Bangladesh) independence 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-26T12:00:00Z'
-date_end: '2022-03-26T18:00:00Z'
+date: "2022-03-26T12:00:00Z"
+date_end: "2022-03-26T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [Arko]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

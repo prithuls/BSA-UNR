@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Members of BSA
 subtitle:
 
 content:
@@ -17,12 +17,10 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Committee
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
+    - Current Students
+    - Family Members
     - Alumni
+    - Administration
 design:
   show_interests: false
   show_role: true
