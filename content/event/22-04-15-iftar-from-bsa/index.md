@@ -1,5 +1,5 @@
 ---
-title: Independence Day of Bangladesh and Bengali New Year Celebration
+title: Iftar from Bangladesh Student Association
 
 event: Festivals
 event_url:
@@ -11,19 +11,19 @@ address:
   postcode: "89557"
   country: United States
 
-summary: Celebration our country's (Bangladesh) independence day
-abstract: "We are planning to celebrate our country's (Bangladesh) independence day, which is on 26th March 2022 (Saturday) from our Bangladeshi Student community. In addition, we will celebrate our Bengali New Year on the same day at the same venue with the same people from our community and others. These two festivals are kind of two major events for our community. Therefore, we are very excited to arrange this program"
+summary: Iftar party from BSA
+abstract: "We are planning to arrange a Iftar party from BSA on April 15, 2022 (Friday) from our Bangladeshi Student community. You are invited to join us and enjoy the party."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-26T12:00:00Z"
-date_end: "2022-03-26T18:00:00Z"
+date: "2022-04-15T17:00:00Z"
+date_end: "2022-04-15T21:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: 2022-04-11T17:08:11-07:00
 
-authors: [Arko]
+authors: [Moni]
 tags: []
 
 # Is this a featured talk? (true/false)
