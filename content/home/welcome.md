@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Bangladeshi Student Association
-hero_media: bsa.jpg
+hero_media: featured.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: "1"
