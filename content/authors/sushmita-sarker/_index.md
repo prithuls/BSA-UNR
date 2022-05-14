@@ -1,25 +1,26 @@
 ---
 # Display name
-title: Sushmita Sarker
+title: "Sushmita Sarker"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-  - Sushmita
+  - "sushmita-sarker"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Masters Student
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Master's Student in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
   - name: University of Nevada, Reno
-    url: ""
+    url: "www.unr.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Always give 100% — unless you’re donating blood.
 
+# List each interest with a dash
 interests:
   - Point Cloud
   - Deep Learning
@@ -32,7 +33,7 @@ education:
       year: 2023
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -42,7 +43,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SushmitaSarker4
-  - icon: google-scholar
+  - icon: linkedin
     icon_pack: ai
     link: https://www.linkedin.com/in/sushmita-sarker-841820209/
 # Link to a PDF of your resume/CV from the About widget.
@@ -52,7 +53,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sushmita@nevada.unr.edu"
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -60,4 +64,4 @@ user_groups:
   - Current Students
 ---
 
-Hi, I am Sushmita. I am a graduate student at the University of Nevada, Reno. 
+Hi, I am Sushmita. I am a graduate student at the University of Nevada, Reno.

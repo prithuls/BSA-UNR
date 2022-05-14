@@ -26,7 +26,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-04-29T00:00:00-07:00"
 
-authors: [Anik, Farhan, Rakib, Moni]
+authors: [m-iffat-hasan, mohammad-farhan, rakib-hossain, monikrishna-roy]
 tags: []
 
 # Is this a featured talk? (true/false)

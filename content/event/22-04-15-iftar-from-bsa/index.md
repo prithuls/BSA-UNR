@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2022-04-11T17:08:11-07:00
 
-authors: [Moni]
+authors: [m-iffat-hasan, md-tamjid-hossain, mohammad-farhan, rakib-hossain, monikrishna-roy]
 tags: []
 
 # Is this a featured talk? (true/false)

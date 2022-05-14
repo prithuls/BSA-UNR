@@ -1,7 +1,7 @@
 ---
 title: 'Adversarial Analysis of the Differentially-Private Federated Learning in Cyber-Physical Critical Infrastructures'
 authors:
-  - Arko
+  - md-tamjid-hossain
 date: '2022-04-06T00:00:00Z'
 doi: ''
 
