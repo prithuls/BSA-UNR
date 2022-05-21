@@ -65,7 +65,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Students
-  - Administration
+  - Admin
 ---
 
 I am Prithul Sarker, a Ph.D. student in the department of computer science at the University of Nevada, Reno.

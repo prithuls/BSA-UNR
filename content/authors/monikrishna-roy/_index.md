@@ -85,7 +85,7 @@ highlight_name: true
 user_groups:
   - Committee
   - Alumni
-  - Administration
+  - Admin
 ---
 
 I am working as a Graduate Research Assistant of CSE dept at UNR. Prior that I was as a Software Engineer at Samsung R&D Bangladesh Institute (SRBD). I completed my MS & BS degree from the Department of CSE, Jahangirnagar University which is the only fully residential university and the most beautiful campus in our country.
