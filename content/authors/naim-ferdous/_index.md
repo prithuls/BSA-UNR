@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Prithul Sarker"
+title: "Naim Ferdous"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "prithul-sarker"
+  - "naim-ferdous"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student in Computer Science and Engineering
+role: Graduate Student in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,21 @@ organizations:
     url: "www.unr.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A human. Being.
+bio:
 
 # List each interest with a dash
-interests:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
+# interests:
+#   - Interest 1
+#   - Interest 2
 
 education:
   courses:
-    - course: PhD in Computer Science and Engineering
-      institution: University of Nevada, Reno
-      year: 2025
+    - course: MS in EEE
+      institution: KUET
+      year: 2018
+    - course: BS in EEE
+      institution: BUET
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -39,16 +41,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:prithulsarker@nevada.unr.edu"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/prithulsarker
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/prithulsarker/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/prithuls
+    link: "mailto:naim.ferdous.badhan@gmail.com"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=06MdflYAAAAJ&hl=en
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "prithulsarker@nevada.unr.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,7 +62,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Students
-  - Administration
 ---
-
-I am Prithul Sarker, a Ph.D. student in the department of computer science at the University of Nevada, Reno.

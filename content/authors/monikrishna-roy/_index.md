@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Joint Secretary of BSA
+role: Software Engineer, Competitive Programmer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: "www.unr.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: love to code
+bio: Love to code
 
 # List each interest with a dash
 interests:

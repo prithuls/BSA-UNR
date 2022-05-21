@@ -70,6 +70,7 @@ highlight_name: false
 user_groups:
   - Committee
   - Current Students
+  - Administration
 ---
 
 I am Md Tamjid Hossain and I am from Bangladesh. I am currently attending the PhD program of Computer Science and Engineering department at University of Nevada, Reno, USA.

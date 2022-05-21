@@ -1,39 +1,41 @@
 ---
 # Display name
-title: "Mohammad Farhan"
+title: "Ripon Chandra Bhowmic"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "mohammad-farhan"
+  - "ripon-chandra-bhowmic"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Secretary of BSA
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
   - name: University of Nevada, Reno
-    url: "www.unr.edu"
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include hardware security, machine learning, and data science.
+bio:
 
 # List each interest with a dash
-interests:
-  - Hardware Security
-  - Machine Learning
-  - Photography
+# interests:
+#   - Interest 1
+#   - Interest 2
 
 education:
   courses:
-    - course: MS in Computer Science and Engineering
+    - course: Phd in Chemistry
       institution: University of Nevada, Reno
-      year: 2022
-    - course: BS in Electrical and Electronic Engineering
-      institution: Ahsanullah University of Science and Technology
-      year: 2016
+      year: 2026
+    - course: MS in Organic Chemistry
+      institution: University of Chittagong
+      year: 2018
+    - course: BS in Chemistry
+      institution: University of Chittagong
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,19 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:mfarhan@nevada.unr.edu"
-  - icon: blog
-    icon_pack: fas
-    link: https://sites.google.com/view/mohammad-farhan
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mfarhan10
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/mohammad-farhan-021460130
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/bah_farhan/
+    link: "mailto:bhowmicripon@gmail.com"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,10 +60,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee
-  - Alumni
+  - Current Students
 ---
-
-Mohammad Farhan is a graduate student in the department of Computer Science and Engineering at University of Nevada, Reno.
-
-Mr. Farhan completed Bachelor of Science in Electrical and Electronic Engineering from Ahsanullah University of Science and Technology, Bangladesh. He has a practical experience of 2 and half year working in Supply Chain Management and Ship Building Industry.
