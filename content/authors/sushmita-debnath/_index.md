@@ -1,41 +1,38 @@
 ---
 # Display name
-title: "Nahid Istiak"
+title: "Sushmita Debnath"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "nahid-istiak"
+  - "sushmita-debnath"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Head of Reno bachelor student society
+role: Graduate Research Assistant in the Department of CMPP
 
 # Organizations/Affiliations
 organizations:
   - name: University of Nevada, Reno
-    url: "www.unr.edu"
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Spread Love ❤️‍🔥
+bio: An animal person and plant mom.
 
 # List each interest with a dash
 interests:
-  - Meet Girls
-  - Bangla Natok
+  - Indoor gardening
+  - Hiking
 
 education:
   courses:
-    - course: Phd in Applied Statistics
+    - course: Phd in cellular and molecular pharmacology and physiology
       institution: University of Nevada, Reno
       year: 2026
-    - course: MS in Applied Statistics
-      institution: University of Dhaka
-      year: 2017
-    - course: BS in Applied Statistics
-      institution: University of Dhaka
-      year: 2015
+    - course: MBBS
+      institution: Comilla medical college
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:nistiak@nevada.unr.edu"
+    link: "mailto:sushmitaswarna@gmail.com"
   - icon: facebook
     icon_pack: fab
-    link: https://www.facebook.com/nahid.i.niloy
+    link: https://www.facebook.com/sushmita.swarna
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,4 +64,5 @@ user_groups:
   - Current Students
 ---
 
-Nahid Istiak is a funny guy. He likes to meet people especially the girls. If you are looking for fun, he is always there. 
+I am a medical graduate from CuMC, Bangladesh. Now doing research on diabetic neuropathy.
+My plants and my cat keep me sane.

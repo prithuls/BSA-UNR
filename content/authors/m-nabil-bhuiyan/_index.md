@@ -1,41 +1,35 @@
 ---
 # Display name
-title: "Nahid Istiak"
+title: "M Nabil Bhuiyan"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "nahid-istiak"
+  - "m-nabil-bhuiyan"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Head of Reno bachelor student society
+role: Graduate Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Nevada, Reno
-    url: "www.unr.edu"
+  - name: University of Connecticut
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Spread Love ❤️‍🔥
+bio:
 
 # List each interest with a dash
-interests:
-  - Meet Girls
-  - Bangla Natok
+# interests:
+#   - Interest 1
+#   - Interest 2
 
 education:
   courses:
-    - course: Phd in Applied Statistics
+    - course: MS in Materials Science and Engineering
       institution: University of Nevada, Reno
-      year: 2026
-    - course: MS in Applied Statistics
-      institution: University of Dhaka
-      year: 2017
-    - course: BS in Applied Statistics
-      institution: University of Dhaka
-      year: 2015
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,10 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:nistiak@nevada.unr.edu"
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/nahid.i.niloy
+    link: "mailto:nabilcmu@gmail.com"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +55,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Alumni
 ---
-
-Nahid Istiak is a funny guy. He likes to meet people especially the girls. If you are looking for fun, he is always there. 

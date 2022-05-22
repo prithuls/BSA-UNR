@@ -1,41 +1,35 @@
 ---
 # Display name
-title: "Nahid Istiak"
+title: "Zunaed Kibria"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "nahid-istiak"
+  - "zunaed-kibria"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Head of Reno bachelor student society
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
   - name: University of Nevada, Reno
-    url: "www.unr.edu"
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Spread Love ❤️‍🔥
+bio:
 
 # List each interest with a dash
 interests:
-  - Meet Girls
-  - Bangla Natok
+  - Photography
+  - Cricket
 
 education:
   courses:
-    - course: Phd in Applied Statistics
+    - course: MS in Electrical Engineering
       institution: University of Nevada, Reno
-      year: 2026
-    - course: MS in Applied Statistics
-      institution: University of Dhaka
-      year: 2017
-    - course: BS in Applied Statistics
-      institution: University of Dhaka
-      year: 2015
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,10 +38,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:nistiak@nevada.unr.edu"
-  - icon: facebook
+    link: "mailto:zkibria@nevada.unr.edu"
+  - icon: github
     icon_pack: fab
-    link: https://www.facebook.com/nahid.i.niloy
+    link: https://github.com/zunaed
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zunaed-kibria-984743107/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/zun_eikona/
+  - icon: blog
+    icon_pack: fas
+    link: https://zkphotography68.pixieset.com/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,5 +69,3 @@ highlight_name: false
 user_groups:
   - Current Students
 ---
-
-Nahid Istiak is a funny guy. He likes to meet people especially the girls. If you are looking for fun, he is always there. 

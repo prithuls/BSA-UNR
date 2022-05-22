@@ -1,41 +1,38 @@
 ---
 # Display name
-title: "Nahid Istiak"
+title: "Rakhi Mondal"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "nahid-istiak"
+  - "rakhi-mondal"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Head of Reno bachelor student society
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Nevada, Reno
-    url: "www.unr.edu"
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Spread Love ❤️‍🔥
+bio:
 
 # List each interest with a dash
-interests:
-  - Meet Girls
-  - Bangla Natok
+# interests:
+#   - Interest 1
+#   - Interest 2
 
-education:
-  courses:
-    - course: Phd in Applied Statistics
-      institution: University of Nevada, Reno
-      year: 2026
-    - course: MS in Applied Statistics
-      institution: University of Dhaka
-      year: 2017
-    - course: BS in Applied Statistics
-      institution: University of Dhaka
-      year: 2015
+# education:
+#   courses:
+#     - course: Title course 1
+#       institution: Name of Institution
+#       year: 2012
+#     - course: Title course 1
+#       institution: Name of Institution
+#       year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,11 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:nistiak@nevada.unr.edu"
-  - icon: facebook
+    link: "mailto:mondalrakhi536@gmail.com"
+  - icon: twitter
     icon_pack: fab
-    link: https://www.facebook.com/nahid.i.niloy
-
+    link: https://twitter.com/USERNAME
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=PERSON-ID
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +69,4 @@ user_groups:
   - Current Students
 ---
 
-Nahid Istiak is a funny guy. He likes to meet people especially the girls. If you are looking for fun, he is always there. 
+বলবো না 🤪
