@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Rakhi Mondal"
+title: "Abrar Shahriar"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "rakhi-mondal"
+  - "abrar-shahriar"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name:
-    url: ""
+  - name: University of Nevada, Reno
+    url: "https://www.unr.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -25,14 +25,14 @@ bio:
 #   - Interest 1
 #   - Interest 2
 
-# education:
-#   courses:
-#     - course: Title course 1
-#       institution: Name of Institution
-#       year: 2012
-#     - course: Title course 1
-#       institution: Name of Institution
-#       year: 2012
+education:
+  courses:
+    - course: PhD in Environmental Engineering
+      institution: University of Nevada, Reno
+      year:
+    - course: BSc in Leather Engineering
+      institution: University of Dhaka
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,8 +41,19 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:mondalrakhi536@gmail.com"
-
+    link: "mailto:ashahriar@nevada.unr.edu"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=eq3M-mIAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/abrar-shahriar-50a595116/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/abrar.s.adib/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/abraradib/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +71,3 @@ highlight_name: false
 user_groups:
   - Current Students
 ---
-
-বলবো না 🤪
