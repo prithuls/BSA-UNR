@@ -30,9 +30,6 @@ education:
     - course: MS in Nutrition
       institution: University of Nevada Reno
       year: 2024
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

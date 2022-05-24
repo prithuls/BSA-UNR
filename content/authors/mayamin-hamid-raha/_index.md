@@ -29,9 +29,6 @@ education:
     - course: PhD in Computer Science and Engineering
       institution: University of Nevada Reno
       year: 2026
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

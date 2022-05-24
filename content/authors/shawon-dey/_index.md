@@ -1,36 +1,41 @@
 ---
 # Display name
-title: "Ahsan Habib Munna"
+title: "Shawon Dey"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "ahsan-habib-munna"
+  - "shawon-dey"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Research Assistant, Materials Design and Characterization Group, Materials Science and Engineering
+role: Head of Reno Cricket Association
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Nevada, Reno
+  - name: UNR Cricket Club
     url: "www.unr.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Traveling to new places and trying on new foods are my interest.
+bio:
 
 # List each interest with a dash
 interests:
-  - Traveling
-  - Meeting new people
+  - Playing Cricket
+  - Watching Movies
 
 education:
   courses:
-    - course: M.S. in Materials Science and Engineering
+    - course: PhD in Electrical Engineering
       institution: University of Nevada, Reno
-      year: 2023
-
+      year: 2025
+    - course: MS in Electrical Engineering
+      institution: South Dakota School of Mines and Technology
+      year: 2020
+    - course: BS in Applied Physics and Electronic Engineering
+      institution: University of Rajshahi, Bangladesh
+      year: 2016
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,8 +43,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:ahsan@nevada.unr.edu"
-
+    link: "mailto:shawondey@nevada.unr.edu"
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,3 +62,5 @@ highlight_name: false
 user_groups:
   - Current Students
 ---
+
+.......................................................................................

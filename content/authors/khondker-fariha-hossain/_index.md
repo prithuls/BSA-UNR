@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Ahsan Habib Munna"
+title: "Khondker Fariha Hossain"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "ahsan-habib-munna"
+  - "khondker-fariha-hossain"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Research Assistant, Materials Design and Characterization Group, Materials Science and Engineering
+role: Ph.D. Student in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,24 @@ organizations:
     url: "www.unr.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Traveling to new places and trying on new foods are my interest.
+bio:
 
 # List each interest with a dash
 interests:
-  - Traveling
-  - Meeting new people
+  - Shopping :P
+  - Reading Books
 
 education:
   courses:
-    - course: M.S. in Materials Science and Engineering
+    - course: Ph.D. in Computer Science and Engineering
       institution: University of Nevada, Reno
-      year: 2023
+      year: 2025
+    - course: Masters in Data Science
+      institution: Deakin University, Australia
+      year: 2021
+    - course: BSc in Computer Science and Engineering
+      institution: BRAC University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -38,8 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:ahsan@nevada.unr.edu"
-
+    link: "mailto:khondkerfarihah@nevada.unr.edu"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=SiLRFNIAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/fariha-hossain/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,3 +68,5 @@ highlight_name: false
 user_groups:
   - Current Students
 ---
+
+Hey! I am Fariha. People call me Fria(nick name). I don't like to say stuff about me; instead, I let people figure it out if they want to!
