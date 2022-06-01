@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: enjoy.jpg
     - title: The greatest community of UNR
-      content: 'Just opened last month!'
+      content: 'We are all united in our desire to learn and to share.'
       align: right
       background:
         position: center
