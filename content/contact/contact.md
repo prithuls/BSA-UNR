@@ -55,3 +55,7 @@ design:
 ---
 
 If you have any comment or suggestion regarding the activities of BSA, please feel free to send email to any of the following.
+
+Please create a new issue on [GitHub](https://github.com/moni-roy/BSA-UNR/pulls) if you have any suggestion or comment.
+
+To update any of the information, please create a new issue on [GitHub](https://github.com/moni-roy/BSA-UNR/pulls). We suggest you to update the information and push it to the repository. See the [GitHub wiki](https://github.com/moni-roy/BSA-UNR/wiki) for more information.
