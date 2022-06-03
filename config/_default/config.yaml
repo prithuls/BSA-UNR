@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bangladeshi Student Association # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://bsa-unr.social' # Website URL
 
 ############################
 ## LANGUAGE

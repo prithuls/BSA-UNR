@@ -18,7 +18,7 @@ content:
   user_groups:
     - Committee
     - Current Students
-    - Family Members
+    - Family & Friends
     - Alumni
     - Admin
 design:
