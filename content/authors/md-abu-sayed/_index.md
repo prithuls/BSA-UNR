@@ -76,7 +76,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+  - Committee
+  - Current Students
 ---
 
 I am Md. Abu Sayed, a Ph.D. Student in Computer Science and Engineering at the University of Nevada, Reno (UNR). My current research works are related to Robotic Vision, especially activity/intent recognition from a group of agents in Naval Space. It’s a joint project of Robotics Lab and Computer Vision Lab at UNR.

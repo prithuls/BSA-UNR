@@ -83,13 +83,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee
   - Alumni
-  - Admin
 ---
 
-I am working as a Graduate Research Assistant of CSE dept at UNR. Prior that I was as a Software Engineer at Samsung R&D Bangladesh Institute (SRBD). I completed my MS & BS degree from the Department of CSE, Jahangirnagar University which is the only fully residential university and the most beautiful campus in our country.
-
-I worked as a Technical Assistant (TA) at Dept. of CSE, JU for six months and also trained students to solve problems efficiently using algorithms & data structures for three years. It was a great, exciting and challenging experience for me. I always enjoy and love to solve various problems using Algorithms & Data structures. I am participating in various programming contests since 2013.
-
-I am mainly interested in Machine Learning, Natural Language Processing, Data Mining, Big Data, Artificial Intelligence, Bioinformatics.
+Pretend to be a tech maniac, but surely not!
