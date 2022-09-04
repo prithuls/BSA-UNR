@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Assistant
+role: President of BSA & Graduate Assistant
 
 # Organizations/Affiliations
 organizations:
