@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Research Assistant in the Department of CMPP
+role: Council Member of BSA & Graduate Research Assistant in the Department of CMPP
 
 # Organizations/Affiliations
 organizations:
