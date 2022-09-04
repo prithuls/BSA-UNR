@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student in Computer Science and Engineering
+role: Vice President of BSA & Ph.D. Student in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
