@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student (Department of Chemistry), Council member, College of Science
+role: General Advisor of BSA, Graduate Student (Department of Chemistry) & Council Member of College of Science
 
 # Organizations/Affiliations
 organizations:
