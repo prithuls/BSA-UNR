@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graudate Research Assistant & Photographer
+role: Treasurer of BSA, Graudate Research Assistant & Photographer
 
 # Organizations/Affiliations
 organizations:
